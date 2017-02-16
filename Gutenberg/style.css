@@ -4,7 +4,7 @@ img {
 
 body {
     font-family: fantasy, serif;
-    background-color: #FAEBBA;
+    background-color: #F8E8B8;
 }
 
 p::first-letter {
@@ -13,4 +13,5 @@ p::first-letter {
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: bolder;
+    color: #101010;
 }

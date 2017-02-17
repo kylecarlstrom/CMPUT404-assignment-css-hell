@@ -23,7 +23,8 @@ Sources Used:
 https://css-tricks.com/snippets/css/better-helvetica/ Chris Coyier  
 http://stackoverflow.com/a/37799733 gdbj (http://stackoverflow.com/users/766911/gdbj)  
 https://css-tricks.com/snippets/sass/material-shadows-mixin/ Hugo Giraudel  
-https://developer.mozilla.org/en-US/docs/Web/CSS
+https://developer.mozilla.org/en-US/docs/Web/CSS  
+As some design inspiration (just the image of his website) https://collegeinfogeek.com/personal-website/ Thomas Frank  
 
   
 License/Copyright

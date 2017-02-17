@@ -12,11 +12,18 @@ Read this comic http://theoatmeal.com/comics/design_hell
 
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
+Changes to Gutenberg docs:  
+All text was given the font family of fantasy.  
+Paragraphs have the first letter being twice as big.  
+Headers have a grey color and are bolder.  
+Images were given a grooved border.  
+The document was given a sepia type background.  
+  
 Sources Used:  
 https://css-tricks.com/snippets/css/better-helvetica/ Chris Coyier  
 http://stackoverflow.com/a/37799733 gdbj (http://stackoverflow.com/users/766911/gdbj)  
 https://css-tricks.com/snippets/sass/material-shadows-mixin/ Hugo Giraudel  
-
+https://developer.mozilla.org/en-US/docs/Web/CSS
 
   
 License/Copyright
@@ -28,7 +35,7 @@ repository and (C) 2013 Abram Hindle and Kyle Carlstrom visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Code in Homepage/style.css is also licensed under the MIT License
+Code in homepage/good.css is also licensed under the MIT License
 
 Copyright 2017 Kyle Carlstrom, gdbj http://stackoverflow.com/users/766911/gdbj (http://stackoverflow.com/a/37799733), Chris Coyier, Hugo Giraudel
 

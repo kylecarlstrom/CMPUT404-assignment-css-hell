@@ -1,0 +1,66 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    background-color: yellow;
+}
+
+.wallpaper {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.wallpaper h1 {
+    color: deeppink;
+    font-size: 8em;
+    position: absolute;
+}
+
+.wallpaper .background-image {
+    filter: invert(75%);
+    margin-bottom: 2em;
+}
+
+.wallpaper img {
+    max-width: 100%;
+}
+
+.profile-image {
+    width: 10em;
+    margin-left: 4em;
+    margin-right: 4em;
+    border-radius: 20%;
+    border: 3px solid crimson;
+    transform: rotateY(90);
+}
+
+h2 {
+    color: red;
+}
+
+#about-me {
+    display: flex;
+}
+
+.content {
+    display: flex;
+}
+
+ul {
+    list-style-type: armenian;
+}
+
+section {
+    border: 1px dashed darkmagenta;
+}
+
+p::first-letter {
+    font-size: 4em;
+    color: blue;
+}
+
+section {
+    back
+}

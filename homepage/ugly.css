@@ -33,7 +33,7 @@ body {
     margin-right: 4em;
     border-radius: 20%;
     border: 3px solid crimson;
-    transform: rotateY(90);
+    transform: rotate(180deg);
 }
 
 h2 {
@@ -59,8 +59,4 @@ section {
 p::first-letter {
     font-size: 4em;
     color: blue;
-}
-
-section {
-    back
 }

@@ -13,11 +13,12 @@ Read this comic http://theoatmeal.com/comics/design_hell
 git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 
 Changes to Gutenberg docs:  
-All text was given the font family of fantasy.  
+All body text was given the font family of fantasy.  
 Paragraphs have the first letter being twice as big.  
-Headers have a grey color and are bolder.  
-Images were given a grooved border.  
-The document was given a sepia type background.  
+Headers have a grey color (#666) and are bolder.  
+Images were given a 2 px dashed slategrey border and are centered.  
+Image captions are saddlebrown, centered, and in italics.  
+The document was given a sepia type (#edddaa) background.  
   
 Sources Used:  
 https://css-tricks.com/snippets/css/better-helvetica/ Chris Coyier  

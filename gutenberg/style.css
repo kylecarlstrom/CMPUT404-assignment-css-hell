@@ -1,5 +1,5 @@
 img {
-    border-style: groove;
+    border: 2px dashed slategray;
 }
 
 body {
@@ -14,4 +14,15 @@ p::first-letter {
 h1, h2, h3, h4, h5, h6 {
     font-weight: bolder;
     color: #333;
+    text-align: center;
+}
+
+.figure p {
+    font-family: monospace;
+    font-style: italic;
+    color: saddlebrown;
+}
+
+.figure {
+    text-align: center;
 }

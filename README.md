@@ -15,7 +15,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Changes to Gutenberg docs:  
 All body text was given the font family of fantasy.  
 Paragraphs have the first letter being twice as big.  
-Headers have a grey color (#666) and are bolder.  
+Headers have a grey color (#666), are bolder, and are centered.  
 Images were given a 2 px dashed slategrey border and are centered.  
 Image captions are saddlebrown, centered, and in italics.  
 The document was given a sepia type (#edddaa) background.  
